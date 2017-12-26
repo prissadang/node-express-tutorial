@@ -41,6 +41,8 @@ yarn start-part-3 // for part 3
 CTRL+C
 ```
 
-## Module Usage
-* Express.js
-* sqlite3
+## More info
+* node.js - [Docs](https://nodejs.org/api/)
+* express.js - [Docs](http://expressjs.com/en/4x/api.html)
+* sqlite3 - [Docs](https://github.com/mapbox/node-sqlite3)
+* Yarn - [Docs](https://yarnpkg.com/en/)
