@@ -1,0 +1,11 @@
+[{
+	"id": 1,
+	"message": "Hello World",
+	"timestamp": "2017-12-26 16:52:33",
+	"tags": ["test", "hello"]
+}, {
+	"id": 2,
+	"message": "Hey bro",
+	"timestamp": "2017-12-26 16:53:33",
+	"tags": ["hello"]
+}]

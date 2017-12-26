@@ -1,0 +1,18 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "script-db": "node pt3/startDB.js",
+    "start-part-1": "node pt1/index.js",
+    "start-part-2": "node pt2/index.js",
+    "start-part-3": "node pt3/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7",
+    "sqlite3": "^3.1.13"
+  }
+}
