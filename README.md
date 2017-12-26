@@ -42,7 +42,7 @@ CTRL+C
 ```
 
 ## More info
-* node.js - [Docs](https://nodejs.org/api/)
-* express.js - [Docs](http://expressjs.com/en/4x/api.html)
-* sqlite3 - [Docs](https://github.com/mapbox/node-sqlite3)
+* Node.JS - [Docs](https://nodejs.org/api/)
+* Express.js - [Docs](http://expressjs.com/en/4x/api.html)
+* SQLite3 - [Docs](https://github.com/mapbox/node-sqlite3)
 * Yarn - [Docs](https://yarnpkg.com/en/)
