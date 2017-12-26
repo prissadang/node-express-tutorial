@@ -13,7 +13,6 @@ app.use(bodyParser.urlencoded({ extended: true })); // support encoded bodies
 */
 app.get('/sample', (req, res) => { // same as: function(req, res) { }
 	res.json({ message: 'hello world' });
-}
 });
 
 /*
