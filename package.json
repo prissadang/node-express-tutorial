@@ -7,12 +7,15 @@
     "script-db": "node pt3/startDB.js",
     "start-part-1": "node pt1/index.js",
     "start-part-2": "node pt2/index.js",
-    "start-part-3": "node pt3/index.js"
+    "start-part-3": "node pt3/index.js",
+    "start-part-4": "node pt4/index.js"
   },
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.2",
+    "moment": "^2.20.1",
     "mongoose": "^4.13.7",
+    "mpromise": "^0.5.5",
     "sqlite3": "^3.1.13"
   }
 }
