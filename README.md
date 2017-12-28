@@ -44,13 +44,11 @@ yarn start-part-4 // for part 4
 CTRL + C
 ```
 
-### Note for Part 4
-```
-Please Install MongoDB and config a connection in file: pt4/db.js 
-and Create Schema then create collection named 'users' and 'messages'
-before start a part 4 server.
+### Note before start Part 4
+1. Install MongoDB and config a connection in file: pt4/db.js 
+2. Create Schema and create collection 'users' and 'messages'
+
 Note: You can use [Robo 3T](https://robomongo.org) for management your mongodb.
-```
 
 ## More info
 * Node.JS - [Docs](https://nodejs.org/api/)
